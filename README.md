@@ -27,7 +27,7 @@
 
 1. [TIA Portal 13, PLCSIM 13](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW)
 2. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
-3. [Техническое задание]()
+3. [Техническое задание](https://docs.google.com/document/d/1vALuzERqAIMiaayCjKwuVMjLmvi8x2jIDUqueksuMu8/edit?usp=sharing)
 
 -----
 
@@ -54,7 +54,7 @@
 *ОБРАТИТЕ ВНИМАНИЕ! Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing).*
 
 3. Создайте новый проект TIA Portal (имя проекта должно содержать название курсовой работы и вашу фамилию).
-4. Создайте в проекте аппаратную конфигурацию и программное обеспечение для установки подачи реагентов на основании [техзадания]()
+4. Создайте в проекте аппаратную конфигурацию и программное обеспечение для установки подачи реагентов на основании [техзадания](https://docs.google.com/document/d/1vALuzERqAIMiaayCjKwuVMjLmvi8x2jIDUqueksuMu8/edit?usp=sharing)
 
 -----
 
